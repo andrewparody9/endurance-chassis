@@ -1,0 +1,1 @@
+engine.tick({ dayEnd: true })
